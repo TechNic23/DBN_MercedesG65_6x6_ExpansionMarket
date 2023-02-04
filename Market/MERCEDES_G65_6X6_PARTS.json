@@ -1,0 +1,152 @@
+{
+  "m_Version": 12,
+  "DisplayName": "MERCEDES G65 6X6 PARTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "mercedesg65_6x6_doors_cargo1",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mercedesg65_6x6_doors_cargo1_black",
+        "mercedesg65_6x6_doors_cargo1_blue",
+        "mercedesg65_6x6_doors_cargo1_green",
+        "mercedesg65_6x6_doors_cargo1_grey",
+        "mercedesg65_6x6_doors_cargo1_pixel",
+        "mercedesg65_6x6_doors_cargo1_pixel_graz",
+        "mercedesg65_6x6_doors_cargo1_police",
+        "mercedesg65_6x6_doors_cargo1_red"
+      ]
+    },
+    {
+      "ClassName": "mercedesg65_6x6_doors_cargo2",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mercedesg65_6x6_doors_cargo2_black",
+        "mercedesg65_6x6_doors_cargo2_blue",
+        "mercedesg65_6x6_doors_cargo2_green",
+        "mercedesg65_6x6_doors_cargo2_grey",
+        "mercedesg65_6x6_doors_cargo2_pixel",
+        "mercedesg65_6x6_doors_cargo2_pixel_graz",
+        "mercedesg65_6x6_doors_cargo2_police",
+        "mercedesg65_6x6_doors_cargo2_red"
+      ]
+    },
+    {
+      "ClassName": "mercedesg65_6x6_doors_codriver",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mercedesg65_6x6_doors_codriver_black",
+        "mercedesg65_6x6_doors_codriver_blue",
+        "mercedesg65_6x6_doors_codriver_green",
+        "mercedesg65_6x6_doors_codriver_grey",
+        "mercedesg65_6x6_doors_codriver_pixel",
+        "mercedesg65_6x6_doors_codriver_pixel_graz",
+        "mercedesg65_6x6_doors_codriver_police",
+        "mercedesg65_6x6_doors_codriver_red"
+      ]
+    },
+    {
+      "ClassName": "mercedesg65_6x6_doors_driver",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mercedesg65_6x6_doors_driver_black",
+        "mercedesg65_6x6_doors_driver_blue",
+        "mercedesg65_6x6_doors_driver_green",
+        "mercedesg65_6x6_doors_driver_grey",
+        "mercedesg65_6x6_doors_driver_pixel",
+        "mercedesg65_6x6_doors_driver_pixel_graz",
+        "mercedesg65_6x6_doors_driver_police",
+        "mercedesg65_6x6_doors_driver_red"
+      ]
+    },
+    {
+      "ClassName": "mercedesg65_6x6_doors_hood",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mercedesg65_6x6_doors_hood_black",
+        "mercedesg65_6x6_doors_hood_blue",
+        "mercedesg65_6x6_doors_hood_green",
+        "mercedesg65_6x6_doors_hood_grey",
+        "mercedesg65_6x6_doors_hood_pixel",
+        "mercedesg65_6x6_doors_hood_pixel_graz",
+        "mercedesg65_6x6_doors_hood_police",
+        "mercedesg65_6x6_doors_hood_red"
+      ]
+    },
+    {
+      "ClassName": "mercedesg65_6x6_doors_trunk",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mercedesg65_6x6_doors_trunk_black",
+        "mercedesg65_6x6_doors_trunk_blue",
+        "mercedesg65_6x6_doors_trunk_green",
+        "mercedesg65_6x6_doors_trunk_grey",
+        "mercedesg65_6x6_doors_trunk_pixel",
+        "mercedesg65_6x6_doors_trunk_pixel_graz",
+        "mercedesg65_6x6_doors_trunk_police",
+        "mercedesg65_6x6_doors_trunk_red"
+      ]
+    },
+    {
+      "ClassName": "mercedesg65_6x6_wheel",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "police_light",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
